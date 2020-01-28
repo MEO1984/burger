@@ -71,5 +71,5 @@ deleteOne: function(table, conditions, cb) {
 }
 
 };
-        
+module.exports = orm;
  
